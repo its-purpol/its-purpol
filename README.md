@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Zeyko14's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyko14)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Zeyko14/Zeyko14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
